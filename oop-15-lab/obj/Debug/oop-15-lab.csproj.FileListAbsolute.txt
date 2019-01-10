@@ -1,0 +1,7 @@
+F:\дз\ДЗ        2 курс\ООП\15\oop-15-lab\oop-15-lab\bin\Debug\oop-15-lab.exe.config
+F:\дз\ДЗ        2 курс\ООП\15\oop-15-lab\oop-15-lab\bin\Debug\oop-15-lab.exe
+F:\дз\ДЗ        2 курс\ООП\15\oop-15-lab\oop-15-lab\bin\Debug\oop-15-lab.pdb
+F:\дз\ДЗ        2 курс\ООП\15\oop-15-lab\oop-15-lab\obj\Debug\oop-15-lab.csprojAssemblyReference.cache
+F:\дз\ДЗ        2 курс\ООП\15\oop-15-lab\oop-15-lab\obj\Debug\oop-15-lab.csproj.CoreCompileInputs.cache
+F:\дз\ДЗ        2 курс\ООП\15\oop-15-lab\oop-15-lab\obj\Debug\oop-15-lab.exe
+F:\дз\ДЗ        2 курс\ООП\15\oop-15-lab\oop-15-lab\obj\Debug\oop-15-lab.pdb
